@@ -19,7 +19,9 @@ Decoder :
   (128, 64, 64) → (64, 128, 128)
   (64, 128, 128) → (3, 256, 256)
 
-  performa (loss): 
+  performa (loss): Epoch 20/20 | Train Loss: 0.0051 | Val Loss: 0.0067
+
+
 
   
 
